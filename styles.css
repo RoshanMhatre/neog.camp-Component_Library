@@ -1,14 +1,6 @@
-#lib-header{
-    color: blue;
-}
-h1{
-    color: red;
-}
 
-h2{
-    color: violet;
-}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
-.paragraph {
-    color: crimson;
+body {
+    font-family: 'Montserrat', sans-serif;
 }
