@@ -4,7 +4,7 @@
 :root {
     --primary-color: blue;
     --dark-grey: #9CA3AF;
-
+    --off-white: #f3f4f6;
 }
 body {
     font-family: 'Montserrat', sans-serif;
@@ -93,4 +93,17 @@ hr{
 
 .hero .hero-heading .heading-inverted {
     color: var(--primary-color);
+}
+
+/* section */
+.section {
+    padding: 2rem;
+}
+.section h1{
+    text-align: center;
+    padding: 2rem;
+}
+
+.off-white {
+    background-color: var(--off-white);
 }
